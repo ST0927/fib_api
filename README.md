@@ -11,3 +11,5 @@ githubで提出いただく場合、リポジトリ名は「fib_api」でお願�
 実際に動いている環境のエンドポイントURL
 https://colab.research.google.com/notebooks/intro.ipynb
 動いている環境であればどんな環境でも問わない
+
+ただのPythonのままだとHTTPと対話できないからFlaskとかで対話可能な形式にする必要がある
