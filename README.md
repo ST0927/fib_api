@@ -13,3 +13,6 @@ https://colab.research.google.com/notebooks/intro.ipynb
 動いている環境であればどんな環境でも問わない
 
 ただのPythonのままだとHTTPと対話できないからFlaskとかで対話可能な形式にする必要がある
+
+何度もfibonacci関数が呼び出された計算量が多くなってるからキャッシュのリセットが必要
+https://qiita.com/simonritchie/items/2ae080691e956e2978aa
